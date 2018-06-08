@@ -70,6 +70,10 @@ section {
   text-shadow: none;
 }
 
+.strong-color {
+  color: rgb(241, 213, 50);
+}
+
 img::selection {
   color: #fff;
   background: transparent;
