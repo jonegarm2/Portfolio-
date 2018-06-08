@@ -72,6 +72,14 @@ section {
 
 .strong-color {
   color: rgb(241, 213, 50);
+  text-shadow: black;
+}
+.text-uppercase {
+  margin-bottom: 15%;
+}
+
+.fixingprob {
+  margin: 70px auto;
 }
 
 img::selection {
