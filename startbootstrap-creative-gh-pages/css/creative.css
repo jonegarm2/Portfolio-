@@ -322,3 +322,13 @@ header.masthead p {
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(241, 213, 50, 0.5)  !important;
 }
+
+.description {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+.text-muted {
+  color: black;
+}
