@@ -234,7 +234,7 @@ header.masthead p {
   position: relative;
   display: block;
   max-width: 650px;
-  margin: 15px;
+  padding: 10px;
 }
 
 .portfolio-box .portfolio-box-caption {
@@ -326,7 +326,7 @@ header.masthead p {
 .description {
   display: flex;
   flex-direction: column;
-  padding: 15px;
+  padding: 0 auto;
 }
 
 .text-muted {
